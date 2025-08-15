@@ -1,5 +1,0 @@
-C:\Users\ksiri\source\repos\FisrtProj\bin\Release\net9.0\publish\FisrtProj.exe
-C:\Users\ksiri\source\repos\FisrtProj\bin\Release\net9.0\publish\FisrtProj.dll
-C:\Users\ksiri\source\repos\FisrtProj\bin\Release\net9.0\publish\FisrtProj.deps.json
-C:\Users\ksiri\source\repos\FisrtProj\bin\Release\net9.0\publish\FisrtProj.runtimeconfig.json
-C:\Users\ksiri\source\repos\FisrtProj\bin\Release\net9.0\publish\FisrtProj.pdb
