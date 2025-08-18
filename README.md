@@ -55,10 +55,18 @@ CMD ["python", "app.py"]
 docker build -t image_name:version .
 # Run the Docker container
 docker run -p 5000:80 image_name:version
+#connecting to a running container
+docker exec -it container_id /bin/bash
 # Stop the running container
 docker stop container_id
 # Remove the Docker container
 docker rm container_id
+#Login to Docker Hub
+docker login
+# Logout from Docker Hub
+docker logout
+# Tag a Docker image
+docker tag image_name:version new_image_name:new_version
 # Push the Docker image to Docker Hub
 docker push image_name:version
 # Pull a Docker image from Docker Hub
