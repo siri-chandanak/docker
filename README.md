@@ -1,9 +1,14 @@
 # Docker 
 Docker is a platform that allows you to **build, package, and run applications** in lightweight, portable containers. 
+
 Docker is a tool that uses OS-level virtualization to deliver software in packages called containers. 
+
 It ensures that your app runs the same way on any system without worrying about dependencies or environment setup.
+
 Containers are isolated environments that include everything needed to run an application, such as code, runtime, libraries, and system tools. This means you can run your application consistently across different environments, whether it's on your local machine, a server, or in the cloud.
+
 Docker simplifies the process of deploying applications by encapsulating them in containers, which can be easily shared and run anywhere Docker is installed. This eliminates the "it works on my machine" problem, as the container includes all dependencies and configurations needed to run the application.
+
 Docker images are the blueprints for containers, containing the application code and its dependencies. You can create your own images using a `Dockerfile`, which is a text file that contains instructions on how to build the image.
 
 Docker File -->  Docker Image -->  Docker Container
@@ -79,11 +84,14 @@ This repository contains multiple examples of how to use **Docker** with differe
 Each folder has its own `Dockerfile` and source code demonstrating how to containerize different applications.
 
 ## 📂 Project Structure
-
 │── python_example1/ # Simple Python app example "Hello World"
+
 │── python_example2/ # Simple Python app example to display image using Flask
+
 │── simple_login_page/ # Simple login page using HTML and CSS
+
 │── simple-dotnet/ # .NET console app example
+
 
 ## ⚙️ Installation
 
@@ -94,7 +102,7 @@ To run these examples, you need **Docker Desktop** installed on your system.
 After installation, verify Docker is working by running the following command in your terminal or command prompt:
 ```bash
 
->docker --version
+docker --version
 ```
 You should see the installed Docker version.
 
