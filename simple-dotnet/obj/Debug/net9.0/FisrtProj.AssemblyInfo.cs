@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FisrtProj")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+08eba690d7400179604a52cda12d4bcbd04505f4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+df8f9e9a3ea33287583523b05d441cd87b361e3b")]
 [assembly: System.Reflection.AssemblyProductAttribute("FisrtProj")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FisrtProj")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
